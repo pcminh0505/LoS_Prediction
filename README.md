@@ -1,6 +1,8 @@
 # Length of Stay Prediction
 
-## Main task: Predict if a given patient (i.e. a new born child) will be discharged from the hospital within 3 days (class 0) or will stay in hospital beyond that (class 1). The required model are logistic regression or its variant for binary classification
+## Main task: 
+
+Predict if a given patient (i.e. a new born child) will be discharged from the hospital within 3 days (class 0) or will stay in hospital beyond that (class 1). The required model are logistic regression or its variant for binary classification
 
 ## Dataset description:
 
